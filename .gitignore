@@ -1,0 +1,8 @@
+#Ignorando os arquivos .jar
+*.jar
+
+#Ignorando os arquivos .xml
+*.xml
+
+#Ignorando os arquivos que estão na pasta node_modules
+node_modules/
